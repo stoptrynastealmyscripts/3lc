@@ -1,7 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{["Title"] = "$",["Text"] = "Made by Veteran#7824",["Duration"] = 20,["Button1"] = "$"})
 game:GetService("StarterGui"):SetCore("SendNotification",{["Title"] = "$",["Text"] = "Press T and stand still (its so you wont be able to be hit but you cant shoot tho unless you move) ",["Duration"] = 20,["Button1"] = "okay"})
 game:GetService("StarterGui"):SetCore("SendNotification",{["Title"] = "$",["Text"] = "Keybind for lock is Q",["Duration"] = 20,["Button1"] = "okay"})
-game:GetService("StarterGui"):SetCore("SendNotification",{["Title"] = "$",["Text"] = "Enjoy.",["Duration"] = 20,["Button1"] = "!"})
 
 local P1000ToggleKey = "t" -- Change that to whatever keybind: "t"
 
